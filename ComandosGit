@@ -1,0 +1,7 @@
+git init - Inicializar un repositorio
+git astatus - Para saber el estado del repositorio
+git add . - Para preparar los archivos para el commit
+git commit -m "Primer_repositorio" - Para versionar el codigo
+git remote -v Ver su repositorio remoto
+git log - Ver las versiones de la carpeta
+git reset --hard commit log - Regresar un anterior versionar  
